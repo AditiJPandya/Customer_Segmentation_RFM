@@ -85,4 +85,4 @@ Modify cluster counts or visualizations as needed.
 Author
 Aditi Pandya
 Data Analytics & Business Insights
-GitHub:
+GitHub:https://github.com/AditiJPandya/Customer_Segmentation_RFM.git
