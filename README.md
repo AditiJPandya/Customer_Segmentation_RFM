@@ -76,21 +76,6 @@ Retention strategies for high-value and loyal customers can significantly impact
 Regular and at-risk customers require targeted marketing to improve engagement.
 RFM analysis converts raw transaction logs into actionable customer intelligence.
 
-Repository Structure
-Customer-Segmentation-RFM/
-│
-├── notebooks/
-│   └── Customer_Segmentation_RFM.ipynb
-│
-├── images/
-│   ├── recency.png
-│   ├── frequency.png
-│   ├── monetary.png
-│   ├── cluster_scatter.png
-│   └── cluster_heatmap.png
-│
-└── README.md
-
 How to Use
 Open the notebook in Google Colab or Jupyter Notebook.
 Upload the dataset (Online Retail dataset).
